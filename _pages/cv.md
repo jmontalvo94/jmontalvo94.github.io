@@ -10,5 +10,5 @@ horizontal: false
 If the embedded version of my CV does not work, you can download a copy [here](../assets/pdf/montalvo_cv.pdf).
 
 <!-- {% raw %} -->
-<iframe src="../assets/pdf/montalvo_cv.pdf" width="100%" height="800px"></iframe>
+<iframe src="../assets/pdf/montalvo_cv.pdf#navpanes=0" width="100%" height="800px"></iframe>
 <!-- {% endraw %}) -->
